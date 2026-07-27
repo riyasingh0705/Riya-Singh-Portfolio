@@ -33,6 +33,7 @@ freelancing, internship applications, and professional networking.
 
 # OUTPUT   
 
+<img width="1918" height="906" alt="Image" src="https://github.com/user-attachments/assets/6465bd24-2d70-4e01-b707-2110119190bc" />
 
 
 
